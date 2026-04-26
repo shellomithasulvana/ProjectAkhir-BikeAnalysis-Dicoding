@@ -98,7 +98,7 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
-Buka di browser: `http://localhost:8501`
+Buka di browser: `https://bike-analysis-shellomithasulvanad.streamlit.app/`
 
 ##  Sumber Data
 
