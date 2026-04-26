@@ -98,7 +98,7 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
-Buka di browser: `[🚲 Bike Sharing Analysis Dashboard](https://bike-analysis-shellomithasulvanad.streamlit.app)`
+Buka di browser: [🚲 Bike Sharing Analysis Dashboard](https://bike-analysis-shellomithasulvanad.streamlit.app)
 
 ##  Sumber Data
 
