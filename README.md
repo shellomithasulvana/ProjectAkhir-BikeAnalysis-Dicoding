@@ -1,4 +1,4 @@
-# 🚲 Bike Sharing Analytics Dashboard
+# 🚲 Bike Sharing Dashboard
 
 Dashboard interaktif untuk menganalisis pola peminjaman sepeda di Washington D.C. (2011–2012) berdasarkan faktor waktu, cuaca, musim, dan tipe hari.
 
