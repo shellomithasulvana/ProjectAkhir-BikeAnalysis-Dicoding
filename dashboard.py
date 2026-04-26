@@ -159,7 +159,7 @@ def insight(txt):
 # ─────────────────────────────────────────
 # RINGKASAN — Selalu tampil (bukan tab)
 # ─────────────────────────────────────────
-st.title("🚲 Bike Sharing Analytics")
+st.title("🚲 Bike Sharing Analysis")
 st.markdown("Analisis Pola Peminjaman Sepeda Berdasarkan Faktor Musiman dan Tipe Hari di Washington D.C. (2011–2012)")
 st.divider()
 
