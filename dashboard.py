@@ -465,7 +465,7 @@ st.divider()
 col_l, col_r = st.columns([3, 1])
 
 col_l.caption(
-    "🚲 **Bike Sharing Analytics Dashboard** · "
+    "🚲 **Bike Sharing Analysis Dashboard** · "
     "Analisis Pola Peminjaman Sepeda Berdasarkan Musim & Tipe Hari · "
     "Washington D.C. (2011–2012)"
 )
